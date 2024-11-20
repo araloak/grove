@@ -1,0 +1,1 @@
+Code and data for our paper *GROVE: A Retrieval-augmented Complex Story Generation Framework with A Forest of Evidence* in Findings of EMNLP 2023
